@@ -1,7 +1,7 @@
 package ecs
 
-import ecs "../libs/ode_ecs"
-import types "../datatypes"
+import ecs "../../ode_ecs"
+import types "../../datatypes"
 import "core:fmt"
 
 SystemEntry :: struct {

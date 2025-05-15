@@ -2,7 +2,7 @@ package engine
 
 import "ecs_wrapper"
 import "core:fmt"
-import ecs "libs/ode_ecs"
+import ecs "../ode_ecs"
 
 c_Active_State :: struct{
     state: bool

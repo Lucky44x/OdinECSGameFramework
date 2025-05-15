@@ -1,6 +1,6 @@
 package ecs
 
-import types "../datatypes"
+import types "../../datatypes"
 import "core:fmt"
 import "core:mem"
 import "base:intrinsics"
